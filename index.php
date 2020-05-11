@@ -1,1 +1,2 @@
-Xin chao ngoc hien
+Xin chao ngoc hien, 
+to lai la ngoc hien day
